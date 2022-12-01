@@ -1,0 +1,16 @@
+{
+  "name": "adventOfCode2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tuomas Alanen <tuomas.alanen@reaktor.com>",
+  "license": "The Don’t Ask Me About It License",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "start": "node"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.10",
+    "typescript": "^4.9.3"
+  }
+}
